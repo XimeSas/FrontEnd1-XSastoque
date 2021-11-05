@@ -1,0 +1,57 @@
+section header{
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  background-color: #ff9100;
+  color: white;
+}
+section p {
+  color: #3c096c;
+  font-family: "Dosis", sans-serif;
+  text-align: left;
+  font-weight: 300;
+}
+section li {
+  color: #3c096c;
+  font-family: "Dosis", sans-serif;
+  text-align: left;
+  font-weight: 300;
+}
+footer {
+  background-color: #ff9e00;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+}
+.enlacesobremi a {
+  text-decoration: none;
+  padding: 10px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #ff9100;
+  border-radius: 6px;
+  border: 2px solid #3c096c;
+  position:relative;
+  top:50%; 
+  left:50%;
+}
+h1 {
+  color: #3c096c;
+  font-family: "Dancing Script";
+  text-align: left;
+  font-weight: 700;
+}
+main header{
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  background-color: #ff9100;
+  color: white;
+}
+main p {
+  color: #3c096c;
+  font-family: "Dosis", sans-serif;
+  text-align: left;
+  font-weight: 300;
+}
