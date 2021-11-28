@@ -1,0 +1,126 @@
+/*para traer fuente roboto font-family: 'Roboto', sans-serif;*/
+*{
+  margin: 0px;
+  padding: 0%;
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  width: 2056px;
+  height: 162px;
+  gap: 0px;
+}
+.banner1 {
+  color: #000000;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  background-color: #d1891c;
+  width: 2056px;
+  height: 61px;
+  left: 0px;
+  top: 0px;
+  padding-left: 67px;
+}
+h1 {
+  background-color: #00669f;
+  font-size: 72px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color:#FFFFFF;
+  width: 2056px;
+  height: 162px;
+  box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+  padding-left: 67px;
+}
+main {
+  margin: 50px 8px;
+  padding: 0%;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 240px;
+}
+.caja1, .caja2 , .caja3 , .caja4 {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 180px;
+}
+.head {
+  width: 806px;
+  height: 555px;
+  border-radius: 35px 35px 0px 0px;
+  order:0;
+  z-index: -1;
+}
+.like {
+  color: #cc2424;
+  z-index: 1;
+  font-size: 67px;
+  margin-left: 45px;
+  position: absolute;
+  margin-top: 45px;
+}
+.fotoperfil {
+  width: 352px;
+  height: 352px;
+  border-radius: 50%;
+  z-index: 10;
+  position: absolute;
+  margin-left: 230px;
+  margin-top: 380px;
+}
+.contenidocard {
+  width: 805px;
+  height: 872px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 200px;
+}
+.contenidocard h2 {
+  font-size: 64px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.contenidocard p {
+  font-size: 36px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin: 43px;
+}
+.centrarbot {
+  width: 346px;
+  height: 114px;
+  background-color: #00669f;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  margin-left: 230px;
+  margin-top: 70px;
+}
+footer {
+  width: 2056px;
+  height: 162px;
+  display: flex;
+  background: #00669f;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: white;
+    justify-content: space-between;
+}
+footer p{
+  font-size: 36px;
+  align-self: center;
+  padding-left: 648px;
+}
+footer img{
+  Width:248.11px;
+  Height:67.36px;
+}
